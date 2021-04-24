@@ -1,0 +1,26 @@
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.csprojAssemblyReference.cache
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.AssemblyInfoInputs.cache
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.AssemblyInfo.cs
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.exe
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.deps.json
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.runtimeconfig.json
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.runtimeconfig.dev.json
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.dll
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.pdb
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.dll
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.pdb
+C:\Users\ilyas.masirov\source\repos\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.genruntimeconfig.cache
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.exe
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.deps.json
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.runtimeconfig.json
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.runtimeconfig.dev.json
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.dll
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\bin\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.pdb
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.csprojAssemblyReference.cache
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.AssemblyInfoInputs.cache
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.AssemblyInfo.cs
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.csproj.CoreCompileInputs.cache
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.dll
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.pdb
+D:\Visual Studio\HomeWorkWithEnumsAndDateTime (1)\HomeWorkWithEnumsAndDateTime\HomeWorkWithEnumsAndDateTime\obj\Debug\netcoreapp3.1\HomeWorkWithEnumsAndDateTime.genruntimeconfig.cache
